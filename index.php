@@ -1,2 +1,2 @@
 hello world
-selamat datang
+selamat pagi
